@@ -4,4 +4,5 @@ Hello World!
 
 This file has been edited as this is a test branch
 
-a local edit
+Both a local edit and an online edit
+
